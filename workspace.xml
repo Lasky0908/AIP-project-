@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1d035cf-a512-42f9-90e3-0c0b089c227d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/.idea/image-super-resolution-web-app-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/enhance/292272669_1156122144945339_6900178231823187814_n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/enhance/292272669_1156122144945339_6900178231823187814_n_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/enhance/292272669_1156122144945339_6900178231823187814_n_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/enhance/292272669_1156122144945339_6900178231823187814_n_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/enhance/292272669_1156122144945339_6900178231823187814_n_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/enhance/292272669_1156122144945339_6900178231823187814_n_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/enhance/293502237_850524919250274_8272653303484009521_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/enhance/New Text Document.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/enhance/a_Thu_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/enhance/a_Thu_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/enhance/a_Thu_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/enhance/a_Thu_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/enhance/img_014_SRF_4_SelfExSR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/enhance/img_014_SRF_4_SelfExSR_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/enhance/img_014_SRF_4_SelfExSR_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/enhance/img_014_SRF_4_SelfExSR_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/enhance/img_014_SRF_4_SelfExSR_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/model/e_50_127.5_127.5.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/model/generator.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/runtime.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/290396519_785034802660063_453095087392468541_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/290396519_785034802660063_453095087392468541_n_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/292077230_1486106181864282_1343037409493607040_n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/292077230_1486106181864282_1343037409493607040_n_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/292077230_1486106181864282_1343037409493607040_n_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/292077230_1486106181864282_1343037409493607040_n_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/292272669_1156122144945339_6900178231823187814_n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/292272669_1156122144945339_6900178231823187814_n_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/292272669_1156122144945339_6900178231823187814_n_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/292272669_1156122144945339_6900178231823187814_n_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/292272669_1156122144945339_6900178231823187814_n_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/292272669_1156122144945339_6900178231823187814_n_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/293245473_1117098315550094_2750379253101794250_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/293245473_1117098315550094_2750379253101794250_n_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/293502237_850524919250274_8272653303484009521_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/2kgda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/New Text Document.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/Than-Da.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/Than-Da_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/a_Thu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/a_Thu_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/a_Thu_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/a_Thu_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/a_Thu_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/a_Thu_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/a_Thu_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/a_Thu_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/a_Thu_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/a_Thu_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/img_014_SRF_4_SelfExSR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/img_014_SRF_4_SelfExSR_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/img_014_SRF_4_SelfExSR_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/img_014_SRF_4_SelfExSR_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/img_014_SRF_4_SelfExSR_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/img_014_SRF_4_SelfExSR_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/img_014_SRF_4_SelfExSR_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/img_014_SRF_4_SelfExSR_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/img_014_SRF_4_SelfExSR_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/img_014_SRF_4_SelfExSR_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/vuachoido.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/vuachoido_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/vuachoido_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/vuachoido_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/vuachoido_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image-super-resolution-web-app-main/uploads/vuachoido_5.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/image-super-resolution-web-app-main" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C13Pauqoqt1pqAwfgqIiZkA7ff" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Pycham/image-super-resolution-web-app-main/image-super-resolution-web-app-main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1d035cf-a512-42f9-90e3-0c0b089c227d" name="Changes" comment="" />
+      <created>1657956243031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657956243031</updated>
+    </task>
+    <servers />
+  </component>
+</project>
